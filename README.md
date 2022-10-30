@@ -1,9 +1,9 @@
 - 👋 Hi, I’m **@es520-hsieh**.
 - 👀 I’m interested in *reading* and *hiking*.
 - 🌱 I’m currently learning Web Programming.
-- 💞️ I’m looking for someone that we can learn this field together.
 - 📫 How to reach me: 
-  You can use this [link to Facebook!](https://www.facebook.com/profile.php?id=100013292855592)
+  You can use this [link to linkedIn](https://www.linkedin.com/in/han-lien-hsieh-26bb34208/)
+  Or use this [link to Facebook!](https://www.facebook.com/profile.php?id=100013292855592)
 
 <!---
 es520-hsieh/es520-hsieh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
