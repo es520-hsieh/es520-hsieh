@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@es520-hsieh**.
 - 👀 I’m interested in *reading* and *hiking*.
-- 🌱 I’m currently learning Web Programming.
+- 🌱 I’m currently taking research on Interactive Media Technology.
 - 📫 How to reach me: 
   You can use this [link to linkedIn](https://www.linkedin.com/in/han-lien-hsieh-26bb34208/)
   Or use this [link to Facebook!](https://www.facebook.com/profile.php?id=100013292855592)
