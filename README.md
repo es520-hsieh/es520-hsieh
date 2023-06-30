@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@es520-hsieh**.
+- 👋 Hi, I’m **Helen**.
 - 👀 I’m interested in *reading* and *hiking*.
 - 🌱 I’m currently taking research on Interactive Media Technology.
 - 📫 How to reach me: 
