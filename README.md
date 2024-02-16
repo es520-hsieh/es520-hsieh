@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Helen**.
+- 👋 Hi, I’m **Heli**.
 - 👀 I’m interested in *reading* and *hiking*.
 - 🌱 I’m currently taking research on Interactive Media Technology.
 - 📫 How to reach me: 
