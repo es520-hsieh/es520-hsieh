@@ -3,7 +3,7 @@
 - 🏆 Award Recognition: Winner of the Best Innovation Award (Intellectual Property) at the International ICT Innovative Services Awards 2022 (Taiwan) for developing an emotion-based music recommendation system using LLMs (BERT) and acoustic modeling.
 - 📫 How to reach me: 
   You can use this [link to linkedIn](https://www.linkedin.com/in/han-lien-hsieh/)
-  Or use this for a coffee chat on Teams [link to mail](h.l.hsieh@outlook.com)
+  Or use this for a coffee chat on Teams [h.l.hsieh@outlook.com]
 
 <!---
 es520-hsieh/es520-hsieh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
